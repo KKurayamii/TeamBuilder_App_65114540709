@@ -2,6 +2,9 @@
 
 นางสาว อันนา สาครวงศ์วัฒนา 65114540709
 
+ลิงค์วิดีโอ :
+https://drive.google.com/drive/folders/1-ncHRiN2EAe1g9Bog3gZmjQ0AzbM4X4J?usp=drive_link
+
 --------------------------------------
 
 **ข้อกำหนดของโปรเจกต์**
@@ -46,3 +49,4 @@ flutter pub get
    ```
 flutter run
    ```
+
