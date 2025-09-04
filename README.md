@@ -1,16 +1,48 @@
-# myapp
+# TeamBuilder_App_65114540709
 
-A new Flutter project.
+นางสาว อันนา สาครวงศ์วัฒนา 65114540709
 
-## Getting Started
+--------------------------------------
 
-This project is a starting point for a Flutter application.
+**ข้อกำหนดของโปรเจกต์**
 
-A few resources to get you started if this is your first Flutter project:
+- เลือกโปเกม่อนใส่ทีมสูงสุด 3 ตัว
+- ตั้งชื่อทีม/แก้ไข
+- ลบโปเกม่อนออกจากทีม
+- ค้นหาโปเกม่อนด้วยช่อง search
+- เพิ่มปุ่มรีเซ็ตทีม
+- เพิ่มอนิเมชั่นตอนเลือกโปเกม่อนและตอนลบโปเกม่อน
+- แสดงภาพโปเกม่อนที่ดึงมาจาก PokeAPI
+- จัดเก็บข้อมูลถาวรด้วย GetX
+- ใช้ Obx() สำหรับการจัดการสถานะ
+- ต้องเชื่อมต่ออินเทอร์เน็ตสำหรับดึงข้อมูลโปเกม่อนจาก PokeAPI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- แสดง Type ของโปเกม่อนที่ดึงมาจาก PokeAPI （เป็นฟีเจอร์ใหม่ 1 อย่าง)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+**วิธีติดตั้งและรันโปรเจกต์**
+Clone repository:
+   ```bash
+   git clone https://github.com/KKurayamii/TeamBuilder_App_65114540709.git
+   ```
+   ```
+cd myapp
+   ```
+ติดตั้ง dependencies:
+   ```
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  get_storage: ^2.1.1
+  http: ^1.2.2
+  cached_network_image: ^3.3.1
+   ```
+   ```
+flutter pub get
+   ```
+
+รันโปรเจค:
+   ```
+flutter run
+   ```
