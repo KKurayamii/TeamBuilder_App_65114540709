@@ -1,5 +1,7 @@
 # TeamBuilder_App_65114540709
 
+โปเกม่อนแสดงค่อนข้างหลายตัวตอนเริ่มเปิดแอพอาจทำให้โปเกม่อนแสดงผ่านflutterช้าค่ะ อาจจะค้องรอราวๆ5นาทีขึ้นไปจนกว่าจะแสดงตัวโปเกม่อนทั้งหมด
+
 นางสาว อันนา สาครวงศ์วัฒนา 65114540709
 
 ลิงค์วิดีโอ :
@@ -29,7 +31,7 @@ Clone repository:
    git clone https://github.com/KKurayamii/TeamBuilder_App_65114540709.git
    ```
    ```
-cd myapp
+cd TeamBuilder_App_65114540709
    ```
 ติดตั้ง dependencies:
    ```
@@ -49,4 +51,5 @@ flutter pub get
    ```
 flutter run
    ```
+
 
